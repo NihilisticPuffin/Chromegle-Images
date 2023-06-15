@@ -42,6 +42,7 @@ $(document).on("ready", () => {
             PasteMenu,
             ChatManager,
             FilterManager,
+            ImageManager,
             ConfirmManager,
             GreetingManager,
             ReconnectManager,
